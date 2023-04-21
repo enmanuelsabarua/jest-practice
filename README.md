@@ -1,1 +1,1 @@
-# jest-practice
+# Jest Practice
